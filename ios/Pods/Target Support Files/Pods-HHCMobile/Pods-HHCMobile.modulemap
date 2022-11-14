@@ -1,0 +1,6 @@
+module Pods_HHCMobile {
+  umbrella header "Pods-HHCMobile-umbrella.h"
+
+  export *
+  module * { export * }
+}
